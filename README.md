@@ -4,4 +4,8 @@
 
 aaasdfs
 
+
+asdfafa
+
 別々ブランチで書き換えた時
+
