@@ -1,2 +1,6 @@
 # rinkou_test
-adafs
+
+
+書き換えます
+
+aaasdfs
